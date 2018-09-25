@@ -14,4 +14,4 @@ update:
 	git pull https://github.com/comp530-f18/lab1.git master
 
 clean:
-	rm thsh
+	rm -f thsh
